@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"Best-in-class Support",
+        "img":"https://images.prismic.io/thinkific/5fcce1ec-ecb1-430e-b307-40c6c7999cff_help-center.webp?auto=compress,format",
+        "details":"Access customer support online or by phone, or leverage our deep knowledge base of articles for easy access to everything you could ever want to know.",
+        "link":"https://support.thinkific.com/hc/en-us",
+        "linkTitle":"GO TO HELP CENTER"
+    },
+    {
+        "id":2,
+        "img":"https://images.prismic.io/thinkific/d3540aa8-722f-41a3-b9c7-5a72ab968e92_creator-support.webp?auto=compress,format",
+        "title":"First-time Creator Support",
+        "details":"Take advantage of our free Thinkific Academy courses for first-time creators to help you get started.",
+        "link":"https://training.thinkific.com/",
+        "linkTitle":"LAUNCH THINKIFIC ACADEMY"
+    },
+    {
+        "id":3,
+        "title":"Join the Creator Community",
+        "img":"https://images.prismic.io/thinkific/f1f27d44-4710-479a-97ca-05ad04591668_community.webp?auto=compress,format",
+        "details":"You’ll also get exclusive access to our Creator Community so you can network and learn from other course creators like you.",
+        "link":"https://www.facebook.com/groups/Thinkific",
+        "linkTitle":"JOIN THE CREATOR COMMUNITY"
+    }
+]

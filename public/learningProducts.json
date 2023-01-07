@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "img":"https://images.prismic.io/thinkific/593a5fa0-6a85-4d2d-9ede-94248f746682_courses.webp?auto=compress,format",
+        "title":"Create courses that sell",
+        "details":"Easily package and present your expertise to share with students, on their schedule — and off yours."
+    },
+    {
+        "id":2,
+        "img":"https://images.prismic.io/thinkific/e6ef6b00-8825-426e-ad06-f7d451c384a3_community.webp?auto=compress,format",
+        "title":"Create courses that sell",
+        "details":"Easily package and present your expertise to share with students, on their schedule — and off yours."
+    },
+    {
+        "id":3,
+        "img":"https://images.prismic.io/thinkific/99597b25-f7c6-40b8-bbd2-2608eee804aa_memberships.webp?auto=compress,format",
+        "title":"Create courses that sell",
+        "details":"Easily package and present your expertise to share with students, on their schedule — and off yours."
+    }
+]

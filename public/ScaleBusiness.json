@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Seamlessly transition as your business scales",
+        "img":"https://images.prismic.io/thinkific/5443ad08-6600-43c5-9590-51bcadce5a3d_pricing-mlp-1.png?auto=compress,format",
+        "details":"With flexible pricing plans, you can unlock advanced features as your business needs evolve and change.",
+        "linkTitle":"VIEW ALL PLANS",
+        "link":"https://www.thinkific.com/pricing/",
+        "bgColor":"#3C5B88"
+
+    },
+    {
+        "id":2,
+        "title":"Access our Expert Marketplace",
+        "img":"https://images.prismic.io/thinkific/79ea2e05-5a90-49bc-9dac-1f176fab4986_expert-marketplace.webp?auto=compress,format",
+        "details":"Get help from experienced professionals to take your course to the next level.",
+        "linkTitle":"LEARN ABOUT EXPERT MARKETPLACE",
+        "link":"https://www.thinkific.com/experts/",
+        "bgColor":"#1A365D"
+
+    },
+    {
+        "id":3,
+        "title":"Unlock advanced features to grow with your needs",
+        "img":"https://images.prismic.io/thinkific/3f7f127e-3399-46dd-acbf-db5375f1b45d_advanced-features.webp?auto=compress,format",
+        "details":"Thinking of multiple schools? It’s no problem with Plus, where you can manage them all from a single dashboard.",
+        "linkTitle":"LEARN MORE ABOUT PLUS",
+        "link":"https://www.thinkific.com/plus/",
+        "bgColor":"#223240"
+
+    }
+]

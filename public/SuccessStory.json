@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "img":"https://images.prismic.io/thinkific/9768f8ef-6f5c-409f-aa13-9eda94555a80_jasonyee-testimonial.webp?auto=compress,format",
+        "name":"Jason Yee",
+        "title":"Ice Hockey Coach",
+        "details":"Delivered training to over 2,000 hockey players online"
+    },
+    {
+        "id":2,
+        "img":"https://images.prismic.io/thinkific/94bc74d5-eac7-4268-9347-c14030c67815_latrina-walden.webp?auto=compress,format",
+        "name":"Latrina Walden",
+        "title":"Nursing School",
+        "details":"Helped over 5,000 students in becoming registred nurses"
+    },
+    {
+        "id":3,
+        "img":"https://images.prismic.io/thinkific/e695404a-1236-4a71-a9fe-b34a9f2522ce_entrepreneurs-testimonial.webp?auto=compress,format",
+        "name":"Entrepreneurs on Fire",
+        "title":"Podcaster",
+        "details":"Used online courses to generate $50k in 2 months"
+    },
+    {
+        "id":4,
+        "img":"https://images.prismic.io/thinkific/99520a81-d52e-44c3-8bc9-ca3a1478286f_jonathanlevi-testimonial.webp?auto=compress,format",
+        "name":"Jonathan Levi",
+        "title":"Entrepreneur",
+        "details":"Taught 12 courses and 120,000+ students on Thinkific"
+    }
+]
